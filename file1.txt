@@ -1,2 +1,6 @@
 Pallavi added a new text file
+<<<<<<< HEAD
+=======
+got it 
+>>>>>>> 6b16a71113e378c7e8bbf2038b3ab1a719f6018f
 Siddiqui made new change
